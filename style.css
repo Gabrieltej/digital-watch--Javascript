@@ -1,0 +1,12 @@
+body{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background:linear-gradient(to right,red,yellow);;
+}
+#clock{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 5rem;
+  color: black;
+}
