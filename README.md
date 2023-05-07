@@ -1,4 +1,4 @@
-# Digital clock
+### Digital clock
 
 > The aim of this project is to check time harnessing the browser time...
 * Displays current time in hours, minutes, and seconds
